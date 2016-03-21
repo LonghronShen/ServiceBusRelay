@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoService", "EchoService\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "EchoClient\EchoClient.csproj", "{C2C55F6E-2F05-4640-BE3A-1E0617376785}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoWebService", "EchoWebService\EchoWebService.csproj", "{5C42DBA8-4FE3-4D4E-9CE9-8856853E61BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoWebClient", "EchoWebClient\EchoWebClient.csproj", "{2B1490A5-E4FF-4996-930C-73CA49F4F815}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C2C55F6E-2F05-4640-BE3A-1E0617376785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C55F6E-2F05-4640-BE3A-1E0617376785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C55F6E-2F05-4640-BE3A-1E0617376785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C42DBA8-4FE3-4D4E-9CE9-8856853E61BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C42DBA8-4FE3-4D4E-9CE9-8856853E61BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C42DBA8-4FE3-4D4E-9CE9-8856853E61BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C42DBA8-4FE3-4D4E-9CE9-8856853E61BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1490A5-E4FF-4996-930C-73CA49F4F815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1490A5-E4FF-4996-930C-73CA49F4F815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1490A5-E4FF-4996-930C-73CA49F4F815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1490A5-E4FF-4996-930C-73CA49F4F815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
